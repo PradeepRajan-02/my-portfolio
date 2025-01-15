@@ -21,7 +21,7 @@ const Navbar = () => {
     </div>
 
     <div className='mt-8 flex items-center justify-center gap-4 text-2xl hover:text-purple-300'>
-        <FaInstagram/>
+        <a href="https://www.instagram.com/pradeep_x02/"><FaInstagram/></a>
     </div>
     
   </nav>
