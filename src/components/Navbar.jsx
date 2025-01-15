@@ -20,11 +20,11 @@ const Navbar = () => {
         <a href="https://github.com/PradeepRajan-02/my-portfolio"><FaGithub/></a> 
       </div>
 
-      <div className='mt-8 flex items-center justify-center gap-4 text-2xl hover:text-purple-300'>
-        <a href="https://www.instagram.com/pradeep_x02/"><FaInstagram/></a> 
-      </div>
-      
-    </nav>
+    <div className='mt-8 flex items-center justify-center gap-4 text-2xl hover:text-purple-300'>
+        <FaInstagram/>
+    </div>
+    
+  </nav>
 
   ) 
 };
